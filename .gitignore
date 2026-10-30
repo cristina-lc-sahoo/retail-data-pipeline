@@ -1,0 +1,10 @@
+airflow-env/
+dbt-env/
+logs/
+target/
+dbt_packages/
+.env
+*.env
+profiles.yml
+__pycache__/
+.DS_Store

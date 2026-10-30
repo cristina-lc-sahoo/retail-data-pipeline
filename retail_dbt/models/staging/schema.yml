@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: stg_sales
+    description: "Cleaned staging view of retail sales"
+    columns:
+      - name: order_id
+        description: "Unique identifier for each sales order"
+        tests:
+          - not_null
+          - unique

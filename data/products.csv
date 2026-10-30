@@ -1,0 +1,14 @@
+id,range_set,item_label,category,unit_cost,unit_price,shrink_risk
+1,core,Wireless earbuds,electronics,28.00,59.00,2.60
+2,core,Phone charger,electronics,6.50,17.00,1.80
+3,core,"Razor blades, 8 pack",personal care,9.00,19.00,2.90
+4,core,Shampoo 400 ml,personal care,2.40,6.50,1.20
+5,core,Chocolate multipack,grocery,1.80,4.20,1.50
+6,core,Olive oil 750 ml,grocery,4.90,9.80,1.00
+7,core,Dish soap 500 ml,household,1.10,3.20,0.60
+8,core,"LED bulbs, 4 pack",household,3.60,9.50,0.90
+9,core,Cotton t-shirt,apparel,4.80,14.00,1.60
+10,core,"Running socks, 3 pack",apparel,3.10,9.00,1.30
+11,core,Notebook A5,stationery,0.90,2.80,0.50
+12,core,"Gel pens, 10 pack",stationery,1.30,3.90,0.80
+13,core,Board game,toys,14.00,32.00,1.40
